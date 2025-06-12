@@ -1,2 +1,2 @@
-# Week-5-calculator
+# Week-5-Calculator
 IT Varsity Week 5
